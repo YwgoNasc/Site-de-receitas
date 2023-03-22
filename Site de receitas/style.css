@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "lato", Arial, Helvetica, sans-serif;
+}
+
+body{
+    font-size: 20px;
+}
+
+.logo{
+    background-color: #ff6b28;
+    padding: 15px;
+    text-align: center;
+}
+
+#hero-bolo{
+    background: url("./images/hero_bolo.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+.conteiner{
+    margin: auto;
+    max-width: 990px;
+    padding: 0px 40px;
+    margin-top: 100px;
+}
+
+h1, h2, h3, h4, h5{
+    color: #ff6b28;
+}
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.cartao-1{
+    padding: 70px 100px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.cartao-1:hover{
+    box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.5);
+}
+
+.botao-comprar{
+    background-color: #ff6b28;
+    padding: 16px;
+    border-radius: 20px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    margin-bottom: 14px;
+}
+
+.listas-ingredientes{
+    margin-bottom: 50px;
+}
+
+.cartao-2{
+    padding: 70px 100px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.cartao-2:hover{
+    box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.5);
+}
+
+
+.cartao-3{
+    padding: 70px 100px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.cartao-3:hover{
+    box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.5);
+}
+
+p{
+    line-height: 28px;
+}
+
+.rodape{
+    background-color: #ff6b28;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.rodape-texto{
+    max-width: 500px;
+    margin: auto;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.text-white{
+    color: white;
+}
